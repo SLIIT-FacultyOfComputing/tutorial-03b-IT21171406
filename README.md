@@ -139,7 +139,7 @@ int main() {
     cin >> Length of Box 2;
     
     // 5. Replace the coding below to pass the Box type structure
-    totalVolume = volume( , , )
+    totalVolume = volume( )
              + volume( , , );
     
     cout << "Volume of Box is " << totalVolume << endl;
